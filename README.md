@@ -1,2 +1,3 @@
-# .github
-Metadata about the wundertablet organization 
+# Wundertablet
+
+Welcome to the wonderful world of tablet computers.
